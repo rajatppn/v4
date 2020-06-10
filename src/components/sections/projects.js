@@ -143,7 +143,7 @@ const Projects = ({ data }) => {
   const projectsToShow = showMore ? projects : firstSix;
 
   return (
-    <StyledContainer>
+    <StyledContainer id="teaching">
       <StyledTitle ref={revealTitle}>Teaching Experience</StyledTitle>
 
       <StyledGrid>
