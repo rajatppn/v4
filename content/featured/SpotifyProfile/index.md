@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Course Project, Discrete Mathematics'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - GAN
+  - Optimal Transport Theory
+  - Image Processing
+  - Discrete Mathematics
+  - Probability theory
+  - Functional Analysis
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Analysing the application of the theory of multi-marginal optimal transport to the well known kidney exchange problem by extending the formulation of the well known matching problem.

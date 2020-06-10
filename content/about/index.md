@@ -1,19 +1,21 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './me.png'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Python
+  - Tensorflow/PyTorch
+  - MySQL/PostgreSQL
+  - C/C++
+  - Node.js/React
+  - ElasticSearch/MongoDB
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Rajat, a graduate student in Computer Science at Stony Brook University, New York.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy solving alogrithmically complex problems, in general I enjoy taking on work that challenges me.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I graduated from the [Indian Institute of Technology Kanpur](http://iitk.ac.in/) in 2015, after which I worked in the Industry building distributing systems and data pipelines for startups for almost 4 years.
+I currently study at [Stony Brook University, New York](https://www.stonybrook.edu/) where I work with the Computational Geometry group, advised by [Prof. Joseph Mitchell](http://www.ams.sunysb.edu/~jsbm/jsbm.html).
+My research interests lie in algorithm design, computational geometry, graph design and game theory.
 
-Here are a few technologies I've been working with recently:
+Here are a few technologies I've worked on over the course of my career:

@@ -1,14 +1,16 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'CSE307, Principles of Programming Languages'
+github: ''
+external: 'https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE307'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Python
+  - SML
+  - Prolog
+  - Memory Allocation
+  - Storage Management
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Teaching Assistant, Stony Brook University: Held office hours, and aided in proctoring and grading of assignments and examinations

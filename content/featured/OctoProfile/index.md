@@ -1,14 +1,13 @@
 ---
-date: '3'
-title: 'OctoProfile'
+date: '1'
+title: 'Undergraduate Research Project'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Scientific Computing
+  - Numerical Analysis
+  - Simulations
+  - High Performance Computing
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Flow past an airfoil undergoing pitching oscillation was simulated using a high resolution, time-accurate compressible Navier-Stokes solver. The solvers was validated against experimental data.

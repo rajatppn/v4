@@ -1,15 +1,16 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
+title: 'CSE215, Foundations of Computer Science'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: 'https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE215'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Logic
+  - Proof Methods
+  - Induction and Recursion
+  - Set Theory
+  - Functions
+company: 'Stony Brook University, New York'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Teaching Assistant, Stony Brook University: Conducted recitations, held office hours, and aided in question setting, proctoring and grading of assignments and examinations
