@@ -11,7 +11,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/rajatppn/v4/master/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
