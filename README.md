@@ -8,7 +8,7 @@
   Forked from <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>
  </p>
 
-![demo](https://raw.githubusercontent.com/rajatppn/v4/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/rajatppn/v4/master/src/images/picture.png)
 
 ## 🚨 Forking this repo (please read!)
 
