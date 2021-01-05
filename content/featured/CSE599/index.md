@@ -1,6 +1,6 @@
 ---
 date: '5'
-title: 'Master's Thesis'
+title: 'Master\'s Thesis'
 cover: './halcyon.png'
 tech:
   - Computational Geometry
