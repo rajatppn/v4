@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Course Project, Discrete Mathematics'
 cover: './demo.png'
 tech:

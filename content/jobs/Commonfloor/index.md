@@ -11,3 +11,4 @@ url: 'https://www.commonfloor.com/'
 - Implemented a feedback loop for the recommendation engine to improve recommendations on similar items in inventory.
 - Interacted with various stakeholders including product managers and different engineering teams to develop and optimize search API's for the website
 - Optimized and tuned the performance of the Apache Solr server responsible for serving listings to enable improvements in response times by upto 60%
+- Winner of the Commonfloor Hackathon in which our team built a feature that added route details and aggregrated ride-share bookings to property pages

@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2'
 title: 'Course Project, Fundamentals of Computer Networks'
 cover: './halcyon.png'
 tech:

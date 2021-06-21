@@ -1,5 +1,5 @@
 ---
-date: '2017-12-01'
+date: '2018-12-29'
 title: 'ESC101: Fundamentals of Computing'
 github: ''
 external: 'http://www.iitk.ac.in/esc101/current/index.html'
@@ -13,4 +13,4 @@ company: 'IIT Kanpur'
 showInProjects: true
 ---
 
-Peer Mentor, CSE Dept, IIT Kanpur
+Peer Mentor, Department of Computer Science and Engineering, IIT Kanpur
